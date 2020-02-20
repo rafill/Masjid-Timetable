@@ -37,7 +37,6 @@ export class Routes extends React.Component {
                     inactiveTintColor:'#CE8837',
                     style: {
                         backgroundColor: "#fff",
-                        border: "none",
                         boxShadow: "0px -9px 16px -9px rgba(138,138,138,1)"
                     }
                 }}>
