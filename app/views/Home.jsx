@@ -23,7 +23,7 @@ export class Home extends React.Component {
               {
                   this.state.fontLoaded ? (
                       <Text style={styles.text}>
-                          Homepage
+                          Home
                       </Text>
                   ) : null
               }
